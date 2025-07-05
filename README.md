@@ -3,6 +3,8 @@
 
 ## 🧠 NeuroX – AI-Powered Cognitive Health Management Platform
 
+🌐 [Live Prototype](https://neurox.netlify.app/)
+
 **NeuroX** is an advanced AI-driven platform designed to revolutionize cognitive health management. By integrating machine learning with personalized neurological insights, NeuroX empowers patients, caregivers, and healthcare professionals to make proactive, data-backed decisions for brain health and wellness.
 
 ---
